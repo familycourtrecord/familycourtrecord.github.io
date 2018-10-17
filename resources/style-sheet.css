@@ -27,3 +27,7 @@ h3 {
 #Numbol > li{
     list-style-type: decimal;
 }
+
+.fBox {
+    max-width: 900px;
+}
